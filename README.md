@@ -18,6 +18,8 @@ Remove Response - Removing insturement response of a station by using response f
 
 Response Spectra - Calculation of spectral acceleration, velocity and displacement of a signal
 
+Rotate Channels - Rotate East and North components to Radial and Transverse components
+
 Saving to a csv file - Creating and saving a database that are created some features of the station and earthquake
 
 Spectrogram - Plotting and saving the spectrogram of the waveform
