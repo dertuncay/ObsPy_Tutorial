@@ -14,7 +14,7 @@ Numpy for Earthquake - Examples of capturing a portion of the data, plotting and
 
 Read and Trim - Reading and trimming the waveform
 
-Remove Response - Removing insturement response of a station by using response files (IT IS IN UNDER CONSTRUCTION!!!)
+Remove Response - Removing insturement response of a station by using response files
 
 Response Spectra - Calculation of spectral acceleration, velocity and displacement of a signal
 
