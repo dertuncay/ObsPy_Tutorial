@@ -4,6 +4,8 @@ I used 24th of October 2016 Amatrice and 16th of July 2011 Alaska earthquakes to
 
 Explanation of tutorials are as below:
 
+Earthquake Detection - Examples of two different STA/LTA triggering methods
+
 Filtering - Examples of lowpass, highpass and bandpass filters on data
 
 Fourier Transform - Calculating and plotting of fast fourier transforms of data
